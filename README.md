@@ -5,7 +5,7 @@ The bike sharing file was initially created in February 2019 and the README file
 Bike Sharing Statistics
 
 ### Description
-The project analyzes bike share use in Chicago, New York City and Washington and provides a number of descriptive statistics including:
+The project analyzes bike share use in Chicago, New York City and Washington from January 2017 to June 2017 and provides a number of descriptive statistics including:
 * Popular times of travel (i.e., occurs most often in the start time)
 * Popular stations and trip
 * Trip duration
