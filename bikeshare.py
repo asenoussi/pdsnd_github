@@ -198,7 +198,7 @@ def main():
         start_row = 0
         end_row = start_row + 5
         total_rows = df.shape[0] + 1
-        while raw_data == 'yes':
+        while raw_data == 'yes' OR raw_data == 'y' :
             if start_row >= total_rows:
                 break
             else:
@@ -208,7 +208,7 @@ def main():
                 raw_data = input('\nWould you like to see the specific rides? Enter yes or no.\n')
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
-        if restart.lower() != 'yes':
+        if restart.lower() != 'yes' OR restart.lower() != 'y':
             break
 
 
