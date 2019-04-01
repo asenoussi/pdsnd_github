@@ -1,15 +1,22 @@
 ### Date created
-Include the date you created this project and README file.
+The bike sharing file was initially created in February 2019 and the README file in April 2019.
 
 ### Project Title
-Replace the Project Title
+Bike Sharing Statistics 
 
 ### Description
-Describe what your project is about and what it does
+The project analyzes bike share use in Chicago, New York City and Washington and provides a number of descriptive statistics including:
+Popular times of travel (i.e., occurs most often in the start time)
+Popular stations and trip
+Trip duration
+User info
 
 ### Files used
-Include the files used
+template of bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credit to Udacity.com
 
